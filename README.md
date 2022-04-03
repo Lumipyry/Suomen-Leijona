@@ -3,7 +3,7 @@ KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour sc
 
 Official colours of flag of State of Finland
 
-HEX Color Codes:
+HEX Colour Codes:
 blue = 134483
 red = B61B31
 yellow = EDA700
