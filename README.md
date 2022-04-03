@@ -7,3 +7,4 @@ HEX Color Codes:
 blue = 134483
 red = B61B31
 yellow = EDA700
+white = ffffff
