@@ -11,6 +11,6 @@ blue = 134483
 
 red = B61B31
 
-yellow = EDA700
+yellow (gold) = EDA700
 
 white = FFFFFF
