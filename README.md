@@ -1,7 +1,7 @@
 # Suomen-Leijona
 KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour scheme
 
-Official colours of flag of State of Finland
+Official colours of Flag of State of Finland
 
 HEX Colour Codes:
 blue = 134483
